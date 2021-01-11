@@ -6,7 +6,7 @@
 
 **Struktur Package & Module**
 
-![gambar1]
+![gambar1](assets/gambar1.PNG)
 
 **Penjelasan:**
 
@@ -105,30 +105,30 @@ while True:
 
 Tambah data
 
-![gambar2]
+![gambar2](assets/gambar2.PNG)
 
 
 Ubah data
 
-![gambar3]
+![gambar3](assets/gambar3.PNG)
 
 
 Lihat data
 
-![gambar4]
+![gambar4](assets/gambar4.PNG)
 
 
 Cari data
 
-![gambar5]
+![gambar5](assets/gambar5.PNG)
 
 
 Hapus data
 
-![gambar6]
+![gambar6](assets/gambar6.PNG)
 
 
 **Flowchart:**
 
 
-![gambar7]
+![gambar7](assets/gambar7.PNG)
